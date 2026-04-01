@@ -58,7 +58,7 @@ npx @anthropic-ai/claw@latest skill add daizhouchen/env-guardian
 
 ## Quick Start
 
-Once the skill is installed, ask Claude Code to check your project. You can also run each script directly:
+Once the skill is installed, ask OpenClaw to check your project. You can also run each script directly:
 
 ```bash
 # Step 1 -- Scan all env var references (outputs JSON)
