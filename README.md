@@ -2,7 +2,7 @@
 
 > Protect your secrets. Audit your env vars. Never leak an API key again.
 
-A [Claude Code](https://claude.ai/code) skill that scans your project for environment variable usage across multiple languages, checks for security vulnerabilities, validates completeness, and generates a proper `.env.example` with a type-safe config loader.
+An [OpenClaw](https://openclawskill.ai) skill that scans your project for environment variable usage across multiple languages, checks for security vulnerabilities, validates completeness, and generates a proper `.env.example` with a type-safe config loader.
 
 ## Features
 
@@ -36,7 +36,7 @@ A [Claude Code](https://claude.ai/code) skill that scans your project for enviro
 ## Installation
 
 ```bash
-claude skill add daizhouchen/env-guardian
+npx @anthropic-ai/claw@latest skill add daizhouchen/env-guardian
 ```
 
 ## How It Works
